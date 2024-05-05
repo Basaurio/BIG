@@ -1,0 +1,52 @@
+Google skill book
+
+1- Recorrido por los labs prácticos de Google Cloud ✓
+
+2- Cómo comenzar a utilizar Cloud Shell y gcloud ✓
+
+3- Dataflow: Qwik Start - Python ✓
+ 
+4- Procesamiento ETL en Google Cloud a través de Dataflow y BigQuery (Python) ✓
+
+5- Dataflow: Qwik Start - Plantillas ✓
+
+6- Procesamiento de datos sin servidores con Dataflow: Cómo escribir una canalización de ETL con Apache Beam y Cloud Dataflow (Python) -
+
+7- Cloud IAM: Qwik Start ✓
+
+8- Create a role in Google Cloud IAM ✓
+
+9- Configure Service Accounts and IAM for Google Cloud: Challenge Lab
+
+10- Configure Service Accounts and IAM Roles for Google Cloud
+
+11- Set up and Configure a Cloud Environment in Google Cloud
+
+12- GSP073 Cloud Storage: Qwik Start - Consola de Cloud
+
+13- GSP421 Explorador de APIs: Cloud Storage
+
+14- GSP074 Cloud Storage: Qwik Start - CLI/SDK
+
+15- ARC111Get Started with Cloud Storage: Challenge Lab
+
+16- ARC119 Create a Secure Data Lake on Cloud Storage: Challenge Lab
+
+17- GSP123: Introduction to Cloud Dataproc: Hadoop and Spark on Google Cloud
+
+18- GSP072: BigQuery: Qwik Start - Console
+
+19- GSP071: BigQuery: Qwik Start - Línea de comandos
+
+20- GSP290: Procesamiento ETL en Google Cloud a través de Dataflow y BigQuery (Python)
+
+21- GSP103: Dataproc: Qwik Start - Consola
+
+22- GSP281: Introducción a SQL para BigQuery y Cloud SQL
+
+23- ARC106: Streaming Analytics into BigQuery: Challenge Lab
+
+24- GSP247: Cómo comenzar a usar BigQuery Machine Learning
+
+25- GSP271: Aprendizaje automático con Spark en Google Cloud Dataproc
+
